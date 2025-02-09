@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# About this
+
+i creating this cause i like to create playlist in the middle of the night
+
+this have 3 input mood, activity, vibes then it will generated 10 song
+
+im using deepseek on my local because i dont have money to paid cloud api
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
